@@ -1,0 +1,3 @@
+{
+  "extends": "@fugood/eslint-config-base"
+}

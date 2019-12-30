@@ -1,0 +1,21 @@
+{
+  "name": "reanimated-easing",
+  "description": "Use easing functions followed by `easings.net` in `React Native Reanimated`",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": "mybigday/reanimated-easing",
+  "author": "Jhen <developer@jhen.me>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@fugood/eslint-config-base": "^0.2.9",
+    "eslint": "^6.8.0",
+    "react-native-reanimated": "^1.4.0"
+  },
+  "peerDependencies": {
+    "react-native-reanimated": "^1.4.0"
+  }
+}

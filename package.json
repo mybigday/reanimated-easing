@@ -1,7 +1,7 @@
 {
   "name": "reanimated-easing",
   "description": "Use easing functions followed by `easings.net` in `React Native Reanimated`",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "main": "index.js",
   "scripts": {
     "test": "eslint ."

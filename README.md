@@ -105,6 +105,9 @@ block([
   timingWithVariableEasing(clock, state, config),
   state.position,
 ])
+
+// Change easing function without re-create Animated block
+config.easing.setValue(getEasingValue('easeInOutBack'))
 ```
 
 ## Credits

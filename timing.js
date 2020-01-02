@@ -31,7 +31,8 @@ const timingProc = proc(
   },
 )
 
-export const getEasingValue = easingKey => namelist.findIndex(easingKey)
+export const getEasingValue = easingKey =>
+  namelist.findIndex(key => key === easingKey)
 
 // NOTE: Optimize using proc, to avoid long-term preparations
 export const timingWithVariableEasing = (clock, state, config) => {

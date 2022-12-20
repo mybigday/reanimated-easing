@@ -2,6 +2,8 @@
 
 Use easing functions followed by [`easings.net`](https://easings.net) in [`React Native Reanimated`](https://github.com/software-mansion/react-native-reanimated).
 
+NOTE: This lib is only works with Reanimated v1.
+
 # Installation
 
 ```bash
